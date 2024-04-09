@@ -25,7 +25,10 @@ if response.status_code == 200:
 
     updated_html_code = soup.prettify()
 
-    file_path = "../../index.html"
+
+    # file_path = "../../index.html" 
+    file_path = "index.html"
+
     try:
         with open(file_path, "w", encoding="utf-8") as file:
             file.write(updated_html_code)
