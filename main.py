@@ -1,6 +1,6 @@
 from bs4 import BeautifulSoup
 import requests
-from core.config import URL, DOMEN, HEADERS
+from config import URL, DOMEN, HEADERS
 
 response = requests.get(URL, headers=HEADERS)
 if response.status_code == 200:
