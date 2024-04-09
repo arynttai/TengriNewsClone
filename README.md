@@ -47,4 +47,9 @@ Feedback and contributions are welcome! Feel free to submit a pull request or op
 
 This project was developed by [Arynttai](https://github.com/arynttai).
 
+### Hosted Website
+
+The project is live and can be viewed [here](https://arynttai.github.io/TengriNewsClone/).
+
+
 
