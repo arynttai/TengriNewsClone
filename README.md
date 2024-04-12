@@ -6,7 +6,7 @@ This repository contains code for a web scraping and HTML modification applicati
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/arynttai/tengri_news
+    git clone https://github.com/arynttai/TengriNewsClone
     ```
 2. Install dependencies:
     ```bash
